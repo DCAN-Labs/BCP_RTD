@@ -1,0 +1,11 @@
+site_name: BCP ReadTheDocs
+theme: readthedocs
+plugins:
+  - search
+docs_dir: docs
+nav:
+  - Overview: index.md
+  - Available Processed Data: processed_data.md
+  - How to Access: data_access.md
+  - Additional Resources: resources.md
+      
